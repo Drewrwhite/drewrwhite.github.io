@@ -22,7 +22,7 @@ _Portfolio Landing Page_
 
 ## License
 
-[Creative Commons](./license.txt)
+[Creative Commons](./LICENSE.txt)
 
 _If you find any issues, please reach out at: **d.white0002@gmail.com**._
 
