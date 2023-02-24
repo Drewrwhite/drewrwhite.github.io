@@ -13,7 +13,7 @@
 
 ## Description
 
-Link: [Portfolio](https://drewrwhite.github.io/drewrwhite.io/)
+Link: [Portfolio](https://drewrwhite.com)
 
 _Portfolio Landing Page_
 
